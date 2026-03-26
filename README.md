@@ -1,9 +1,6 @@
 # Hi 👋, I'm ingyyy
 
 ### A budding Python developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingyyy&label=Profile views&color=0e75b6&style=flat" alt="ingyyy" /> </p>
-
 - 📫 How to reach me **https://www.linkedin.com/in/ingy-mohamed/**
 
 <h3 align="left">Connect with me:</h3>
